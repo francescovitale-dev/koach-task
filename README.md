@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
    ```
    git clone https://github.com/yourusername/koach-task.git
-   cd user-dashboard
+   cd koach-task
    ```
 
 2. Install dependencies using pnpm:
